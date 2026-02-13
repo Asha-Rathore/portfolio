@@ -13,38 +13,39 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m a Software Engineer who loves turning ideas into reliable,
+              scalable software that makes a real impact. With 2+ years of experience, 
+              I’ve built production-ready backend, web, and mobile applications — 
+              focusing on clean architecture, performance, and maintainability.
               <br />
               <br />
-              I’m proficient in
+              I work confidently with
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Java, Spring Boot, Flutter, REST APIs, .NET (Blazor), and modern web & app technologies{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              , and I enjoy designing systems that are both technically strong and user-focused.
               <br />
               <br />
-              My key areas of interest include developing
+              Currently pursuing my Master’s at  
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Technische Universität Ilmenau,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
+              I’m expanding into large-scale system design and Applied AI — integrating 
+              intelligent features into real-world applications.
+              {/* <br />
               <br />
               Whenever possible, I love building projects with
               <b className="purple"> Node.js </b> and modern frameworks like{" "}
               <i>
                 <b className="purple">React.js</b> and{" "}
                 <b className="purple">Next.js</b>.
-              </i>
+              </i> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
